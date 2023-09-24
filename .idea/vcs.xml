@@ -4,6 +4,8 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/02_LAB_data_types_and_variables/Python_Fundamental" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/02_LAB_data_types_and_variables/Rock_Paper_Scissors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Guess_A_Number" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python_Fundamental" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Rock_Paper_Scissors" vcs="Git" />
   </component>
 </project>
