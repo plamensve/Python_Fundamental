@@ -22,3 +22,4 @@ armor_repair = shild_repair // 2
 total_sum = (helmet_repair * helmet_price) + (sword_repair * sword_price) + (shild_repair * shild_price) + (
             armor_repair * armor_price)
 print(f"Gladiator expenses: {total_sum:.2f} aureus")
+
