@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 28092023">
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 29092023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_LAB_lists_basics/numbers_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_LAB_lists_basics/numbers_filter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +237,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696013307219</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Exercise - 29092023">
+      <created>1696014296124</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696014296124</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Exercise - 29092023">
+      <created>1696014414165</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696014414165</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,7 +277,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="Exercise" />
     <MESSAGE value="Exercise - 28092023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 28092023" />
+    <MESSAGE value="Exercise - 29092023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 29092023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -341,11 +355,6 @@
           <url>file://$PROJECT_DIR$/03_LAB_lists_basics/search.py</url>
           <line>6</line>
           <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_LAB_lists_basics/numbers_filter.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
