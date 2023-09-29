@@ -43,8 +43,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.factoriel">
-    <configuration name="factoriel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.factorial">
+    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +56,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Exercise_Lists_Basics/factoriel.py" />
+      <option name="SCRIPT_NAME" value="D:\Python Projects\Python_Fundamental\03_Exercise_Lists_Basics\factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +172,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.factoriel" />
+        <item itemvalue="Python.factorial" />
         <item itemvalue="Python.multiples_list" />
         <item itemvalue="Python.invert_values" />
         <item itemvalue="Python.numbers_filter" />

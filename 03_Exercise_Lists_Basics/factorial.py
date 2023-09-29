@@ -1,5 +1,3 @@
-from math import factorial
-
 factorial = int(input())
 result = 1
 
