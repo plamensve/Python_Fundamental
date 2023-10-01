@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 01102023 - To heavy, 3 hours work">
-      <change afterPath="$PROJECT_DIR$/03_Exercise_Lists_Basics/seize_the_fire.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/seize_the_fire.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Exercise_Lists_Basics/seize_the_fire.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -322,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696166983483</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Exercise - 01102023 - To heavy, 3 hours work">
+      <created>1696184093454</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1696184093454</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,6 +467,11 @@
           <url>file://$PROJECT_DIR$/03_Exercise_Lists_Basics/еaster_gifts.py</url>
           <line>5</line>
           <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Exercise_Lists_Basics/seize_the_fire.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
