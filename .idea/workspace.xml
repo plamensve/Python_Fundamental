@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 07102023">
-      <change afterPath="$PROJECT_DIR$/04_LAB_Funtions/calculate_rectangle_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_LAB_Funtions/rounding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_EXERCISE_Functions/add_and_subtract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_EXERCISE_Functions/smallest_of_three_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_LAB_Funtions/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_LAB_Funtions/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/bread_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/bread_factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/faro_shuffle.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/faro_shuffle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/football_cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/football_cards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/hello_france.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/hello_france.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/invert_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/invert_values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/invert_values_warming.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/invert_values_warming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/messaging.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/messaging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/multiples_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/multiples_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/number_beggars.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/number_beggars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/seize_the_fire.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/seize_the_fire.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/survival_of_the_biggest.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/survival_of_the_biggest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/zeros_to_back.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/zeros_to_back.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/еaster_gifts.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/еaster_gifts.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +59,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.rounding">
+  <component name="RunManager" selected="Python.add_and_subtract">
+    <configuration name="add_and_subtract" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_EXERCISE_Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_EXERCISE_Functions/add_and_subtract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="calculate_rectangle_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,27 +144,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="repeat_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Fundamental" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_LAB_Funtions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_LAB_Funtions/repeat_string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="rounding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="smallest_of_three_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_LAB_Funtions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_EXERCISE_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_LAB_Funtions/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_EXERCISE_Functions/smallest_of_three_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.add_and_subtract" />
+        <item itemvalue="Python.smallest_of_three_numbers" />
         <item itemvalue="Python.rounding" />
         <item itemvalue="Python.calculate_rectangle_area" />
         <item itemvalue="Python.orders" />
-        <item itemvalue="Python.repeat_string" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696626707400</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Exercise - 07102023">
+      <created>1696663788080</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1696663788080</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -557,52 +578,52 @@
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Exercise_Lists_Basics/invert_values.py</url>
+          <url>file://$PROJECT_DIR$/03_EXERCISE_Lists_Basics/invert_values.py</url>
           <line>3</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Exercise_Lists_Basics/football_cards.py</url>
+          <url>file://$PROJECT_DIR$/03_EXERCISE_Lists_Basics/football_cards.py</url>
           <line>6</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Exercise_Lists_Basics/faro_shuffle.py</url>
+          <url>file://$PROJECT_DIR$/03_EXERCISE_Lists_Basics/faro_shuffle.py</url>
           <line>4</line>
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Exercise_Lists_Basics/seize_the_fire.py</url>
+          <url>file://$PROJECT_DIR$/03_EXERCISE_Lists_Basics/seize_the_fire.py</url>
           <line>4</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Exercise_Lists_Basics/еaster_gifts.py</url>
+          <url>file://$PROJECT_DIR$/03_EXERCISE_Lists_Basics/еaster_gifts.py</url>
           <line>5</line>
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Exercise_Lists_Basics/seize_the_fire.py</url>
+          <url>file://$PROJECT_DIR$/03_EXERCISE_Lists_Basics/seize_the_fire.py</url>
           <line>49</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Exercise_Lists_Basics/hello_france.py</url>
+          <url>file://$PROJECT_DIR$/03_EXERCISE_Lists_Basics/hello_france.py</url>
           <line>10</line>
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Exercise_Lists_Basics/bread_factory.py</url>
+          <url>file://$PROJECT_DIR$/03_EXERCISE_Lists_Basics/bread_factory.py</url>
           <line>5</line>
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Exercise_Lists_Basics/zeros_to_back.py</url>
+          <url>file://$PROJECT_DIR$/03_EXERCISE_Lists_Basics/zeros_to_back.py</url>
           <line>3</line>
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Exercise_Lists_Basics/messaging.py</url>
+          <url>file://$PROJECT_DIR$/03_EXERCISE_Lists_Basics/messaging.py</url>
           <line>14</line>
           <option name="timeStamp" value="93" />
         </line-breakpoint>
