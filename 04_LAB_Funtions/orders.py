@@ -11,4 +11,4 @@ type_of_product = input()
 quantity_of_product = float(input())
 
 total_price = price(type_of_product, quantity_of_product)
-print(total_price)
+print(f'{total_price:.2f}')
