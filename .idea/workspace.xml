@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 07102023">
-      <change afterPath="$PROJECT_DIR$/04_EXERCISE_Functions/add_and_subtract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_EXERCISE_Functions/smallest_of_three_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/bread_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/bread_factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/faro_shuffle.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/faro_shuffle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/football_cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/football_cards.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/hello_france.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/hello_france.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/invert_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/invert_values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/invert_values_warming.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/invert_values_warming.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/messaging.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/messaging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/multiples_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/multiples_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/number_beggars.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/number_beggars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/seize_the_fire.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/seize_the_fire.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/survival_of_the_biggest.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/survival_of_the_biggest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/zeros_to_back.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/zeros_to_back.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Exercise_Lists_Basics/еaster_gifts.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/еaster_gifts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_EXERCISE_Functions/add_and_subtract.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_EXERCISE_Functions/add_and_subtract.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -457,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696663788080</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Exercise - 07102023">
+      <created>1696669112911</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1696669112911</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
