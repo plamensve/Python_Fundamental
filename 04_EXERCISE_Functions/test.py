@@ -1,6 +1,7 @@
 number = int(input())
 
-divisor_sum = 0
-for divisor in range(1, number):
-    if number % divisor == 0:
-        divisor_sum += divisor
+result = 1
+for num in range(1, number + 1):
+    result *= num
+
+print(result)
