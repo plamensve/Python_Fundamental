@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 08102023">
-      <change afterPath="$PROJECT_DIR$/04_EXERCISE_Functions/center_point.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_EXERCISE_Functions/data_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_EXERCISE_Functions/longer_line.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_EXERCISE_Functions/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_EXERCISE_Functions/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.center_point">
+  <component name="RunManager" selected="Python.longer_line">
     <configuration name="center_point" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="loading_bar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="longer_line" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_EXERCISE_Functions/loading_bar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_EXERCISE_Functions/longer_line.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.longer_line" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.center_point" />
         <item itemvalue="Python.data_types" />
         <item itemvalue="Python.factorial_division" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.loading_bar" />
       </list>
     </recent_temporary>
   </component>
@@ -519,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696766983387</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Exercise - 08102023">
+      <created>1696770999015</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1696770999015</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -715,14 +722,19 @@
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04_EXERCISE_Functions/test.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="123" />
+          <url>file://$PROJECT_DIR$/04_EXERCISE_Functions/center_point.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04_EXERCISE_Functions/center_point.py</url>
+          <url>file://$PROJECT_DIR$/04_EXERCISE_Functions/test.py</url>
           <line>3</line>
-          <option name="timeStamp" value="124" />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_EXERCISE_Functions/longer_line.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="127" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
