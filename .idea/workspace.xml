@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 09102023">
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 10102023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_EXERCISE_Functions/center_point.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_EXERCISE_Functions/center_point.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04_EXERCISE_Functions/longer_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_EXERCISE_Functions/longer_line.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04_EXERCISE_Functions/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_EXERCISE_Functions/test.py" afterDir="false" />
     </list>
@@ -174,8 +175,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.longer_line" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.center_point" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.data_types" />
         <item itemvalue="Python.factorial_division" />
       </list>
@@ -189,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00001" summary="test">
-      <created>1695556572784</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1695556572784</updated>
     </task>
     <task id="LOCAL-00002" summary="test">
       <created>1695570195643</created>
@@ -533,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696870738724</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Exercise - 10102023">
+      <created>1696965635996</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1696965635996</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -577,7 +578,8 @@
     <MESSAGE value="Exercise - 07102023" />
     <MESSAGE value="Exercise - 08102023" />
     <MESSAGE value="Exercise - 09102023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 09102023" />
+    <MESSAGE value="Exercise - 10102023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 10102023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -733,11 +735,6 @@
           <url>file://$PROJECT_DIR$/04_EXERCISE_Functions/center_point.py</url>
           <line>5</line>
           <option name="timeStamp" value="124" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04_EXERCISE_Functions/longer_line.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="127" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
