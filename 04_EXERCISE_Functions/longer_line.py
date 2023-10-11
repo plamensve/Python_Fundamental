@@ -37,7 +37,7 @@ def distance_calculate(number_1, number_2, number_3, number_4, number_5, number_
 num_x1 = math.floor(float(input()))
 num_y1 = math.floor(float(input()))
 num_x2 = math.floor(float(input()))
-num_y2 = math.floor(float(input()))
+num_y2 = math.ceil(float(input()))
 
 num_x3 = math.floor(float(input()))
 num_y3 = math.floor(float(input()))
