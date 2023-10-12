@@ -18,7 +18,11 @@ binary_str = ''.join(map(str, binary_digits))
 print(f"Binary number: {binary_str}")
 print(f"Zero count: {count_zero}")
 
-bit_on_position_one = binary_digits[-2]
-print(f"Bit on position 1 is: {bit_on_position_one}")
+bit_position = int(input())
+position_in_string = -bit_position-1
 
-
+try:
+    bit_on_position_one = binary_digits[position_in_string]
+    print(f"Bit on position 1 is: {bit_on_position_one}")
+except IndexError:
+    print("Bit on position 1 is: 0")
