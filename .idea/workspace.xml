@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 14102023">
-      <change afterPath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/group_of_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/rock_papper_scissor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/group_of_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/group_of_10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.group_of_10">
+  <component name="RunManager" selected="Python.rock_papper_scissor (1)">
     <configuration name="electron_distribution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,27 +109,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="number_classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Fundamental" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_EXERCISE_List_Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_EXERCISE_List_Advanced/number_classification.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="office_chairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="word_filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rock_papper_scissor (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +142,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_EXERCISE_List_Advanced/word_filter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_EXERCISE_List_Advanced/rock_papper_scissor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rock_papper_scissor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_EXERCISE_List_Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Python Projects\Python_Fundamental\05_EXERCISE_List_Advanced\rock_papper_scissor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rock_papper_scissor (1)" />
+        <item itemvalue="Python.rock_papper_scissor" />
         <item itemvalue="Python.group_of_10" />
         <item itemvalue="Python.electron_distribution" />
         <item itemvalue="Python.office_chairs" />
-        <item itemvalue="Python.number_classification" />
-        <item itemvalue="Python.word_filter" />
       </list>
     </recent_temporary>
   </component>
@@ -189,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Exercise - 01102023 - To heavy, 3 hours work">
-      <created>1696166890923</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1696166890923</updated>
     </task>
     <task id="LOCAL-00019" summary="Exercise - 01102023 - To heavy, 3 hours work">
       <created>1696166983483</created>
@@ -533,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697290913899</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Exercise - 14102023">
+      <created>1697294175162</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1697294175162</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -773,11 +774,6 @@
           <url>file://$PROJECT_DIR$/05_EXERCISE_List_Advanced/office_chairs.py</url>
           <line>1</line>
           <option name="timeStamp" value="148" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/05_EXERCISE_List_Advanced/group_of_10.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="154" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
