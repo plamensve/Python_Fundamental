@@ -5,5 +5,5 @@ while numbers:
     print(f"Group of {current_group}'s: {filtered_numbers_for_current_group}")
     current_group += 10
     numbers = [number for number in numbers if number not in filtered_numbers_for_current_group]
-#test
+
 
