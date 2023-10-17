@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 16102023">
-      <change afterPath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/softUni_course_planning.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/pokemon_don't_go.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/pokemon_don't_go.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.pokemon_don't_go">
+  <component name="RunManager" selected="Python.softUni_course_planning">
     <configuration name="decipher_this" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rock_papper_scissor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="softUni_course_planning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Python Projects\Python_Fundamental\05_EXERCISE_List_Advanced\rock_papper_scissor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_EXERCISE_List_Advanced/softUni_course_planning.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pokemon_don't_go" />
+        <item itemvalue="Python.softUni_course_planning" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.pokemon_don't_go" />
         <item itemvalue="Python.decipher_this" />
         <item itemvalue="Python.rock_papper_scissor (1)" />
-        <item itemvalue="Python.rock_papper_scissor" />
       </list>
     </recent_temporary>
   </component>
@@ -190,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Exercise - 03102023">
-      <created>1696315946380</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1696315946380</updated>
     </task>
     <task id="LOCAL-00023" summary="Exercise - 03102023">
       <created>1696328391539</created>
@@ -534,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697440773396</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Exercise - 16102023">
+      <created>1697484825496</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1697484825496</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -790,6 +790,11 @@
           <url>file://$PROJECT_DIR$/05_EXERCISE_List_Advanced/pokemon_don't_go.py</url>
           <line>5</line>
           <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05_EXERCISE_List_Advanced/softUni_course_planning.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="169" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
