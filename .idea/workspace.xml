@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 16102023">
-      <change afterPath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/softUni_course_planning.py" afterDir="false" />
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 17102023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/softUni_course_planning.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/softUni_course_planning.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_EXERCISE_List_Advanced/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.softUni_course_planning">
+  <component name="RunManager" selected="Python.test">
     <configuration name="decipher_this" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,8 +174,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.softUni_course_planning" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.softUni_course_planning" />
         <item itemvalue="Python.pokemon_don't_go" />
         <item itemvalue="Python.decipher_this" />
         <item itemvalue="Python.rock_papper_scissor (1)" />
@@ -190,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Exercise - 03102023">
-      <created>1696328391539</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1696328391539</updated>
     </task>
     <task id="LOCAL-00024" summary="Exercise - 03102023">
       <created>1696328415095</created>
@@ -534,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697484825496</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Exercise - 17102023">
+      <created>1697564605117</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1697564605117</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -585,7 +585,8 @@
     <MESSAGE value="Exercise - 14102023" />
     <MESSAGE value="Exercise - 15102023" />
     <MESSAGE value="Exercise - 16102023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 16102023" />
+    <MESSAGE value="Exercise - 17102023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 17102023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -783,18 +784,19 @@
           <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/05_EXERCISE_List_Advanced/test.py</url>
-          <option name="timeStamp" value="160" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/05_EXERCISE_List_Advanced/pokemon_don't_go.py</url>
           <line>5</line>
           <option name="timeStamp" value="162" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/05_EXERCISE_List_Advanced/softUni_course_planning.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="169" />
+          <line>2</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05_EXERCISE_List_Advanced/test.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="174" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
