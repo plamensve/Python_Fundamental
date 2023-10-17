@@ -1,5 +1,4 @@
 initial_schedule = input().split(', ')
-
 while True:
     try:
         current_command = input().split(":")
@@ -39,9 +38,5 @@ while True:
         elif lesson in initial_schedule:
             initial_schedule.append(exercise)
 
-
-for word in initial_schedule:
-    if word.count(word) > 1:
-        print('yes')
 for index, item in enumerate(initial_schedule):
     print(f"{index + 1}.{item}")
