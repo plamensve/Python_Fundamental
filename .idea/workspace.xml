@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 19102023">
-      <change afterPath="$PROJECT_DIR$/06_exam_preparation/inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_exam_preparation/computer_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_exam_preparation/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +45,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.inventory">
-    <configuration name="bonus_scoring_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.computer_store">
+    <configuration name="computer_store" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_exam_preparation/bonus_scoring_system.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_exam_preparation/computer_store.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="softUni_reception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_exam_preparation/softUni_reception.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_exam_preparation/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.computer_store" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.inventory" />
         <item itemvalue="Python.mu_online_second_type" />
         <item itemvalue="Python.mu_оnline" />
-        <item itemvalue="Python.bonus_scoring_system" />
-        <item itemvalue="Python.softUni_reception" />
       </list>
     </recent_temporary>
   </component>
@@ -189,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Exercise - 05102023">
-      <created>1696526366911</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1696526366912</updated>
     </task>
     <task id="LOCAL-00033" summary="Exercise - 05102023">
       <created>1696529373742</created>
@@ -533,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697726247593</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Exercise - 19102023">
+      <created>1697731174739</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1697731174739</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -803,11 +804,6 @@
           <url>file://$PROJECT_DIR$/06_exam_preparation/mu_оnline.py</url>
           <line>12</line>
           <option name="timeStamp" value="197" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/06_exam_preparation/inventory.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="198" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
