@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 18102023">
-      <change afterPath="$PROJECT_DIR$/06_exam_preparation/bonus_scoring_system.py" afterDir="false" />
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 19102023">
+      <change afterPath="$PROJECT_DIR$/06_exam_preparation/mu_оnline.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.bonus_scoring_system">
+  <component name="RunManager" selected="Python.mu_online_second_type">
     <configuration name="bonus_scoring_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,6 +108,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="mu_оnline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_exam_preparation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_exam_preparation/mu_оnline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mu_online_second_type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_exam_preparation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Python Projects\Python_Fundamental\06_exam_preparation\mu_online_second_type.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="softUni_reception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,55 +171,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="treasure_hunt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Fundamental" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_exam_preparation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_exam_preparation/treasure_hunt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="treasure_hunt_100_100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Fundamental" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_exam_preparation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Python Projects\Python_Fundamental\06_exam_preparation\treasure_hunt_100_100.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mu_online_second_type" />
+        <item itemvalue="Python.mu_оnline" />
         <item itemvalue="Python.bonus_scoring_system" />
         <item itemvalue="Python.softUni_reception" />
         <item itemvalue="Python.man_o_war" />
-        <item itemvalue="Python.treasure_hunt" />
-        <item itemvalue="Python.treasure_hunt_100_100" />
       </list>
     </recent_temporary>
   </component>
@@ -189,13 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Exercise - 04102023">
-      <created>1696447661348</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1696447661348</updated>
     </task>
     <task id="LOCAL-00031" summary="Exercise - 04102023">
       <created>1696448330229</created>
@@ -533,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697656789626</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Exercise - 19102023">
+      <created>1697708949726</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1697708949726</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -586,7 +586,8 @@
     <MESSAGE value="Exercise - 16102023" />
     <MESSAGE value="Exercise - 17102023" />
     <MESSAGE value="Exercise - 18102023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 18102023" />
+    <MESSAGE value="Exercise - 19102023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 19102023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -799,9 +800,9 @@
           <option name="timeStamp" value="187" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/06_exam_preparation/bonus_scoring_system.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="190" />
+          <url>file://$PROJECT_DIR$/06_exam_preparation/mu_оnline.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="197" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
