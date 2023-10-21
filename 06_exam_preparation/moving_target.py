@@ -23,7 +23,7 @@ while True:
             power = int(current_command[2])
             sequence[int(current_command[1])] -= power
             if sequence[int(current_command[1])] <= 0:
-                sequence.remove(sequence[index])
+                sequence.remove(sequence[int(current_command[1])])
 
     elif action == 'Add':
         index = valid_index(int(current_command[1]))
