@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 20102023">
-      <change afterPath="$PROJECT_DIR$/06_exam_preparation/counter_strike.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_exam_preparation/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.counter_strike">
+  <component name="RunManager" selected="Python.shoot_for_the_win">
     <configuration name="computer_store" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mu_online_second_type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="shoot_for_the_win" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Python Projects\Python_Fundamental\06_exam_preparation\mu_online_second_type.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_exam_preparation/shoot_for_the_win.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.shoot_for_the_win" />
         <item itemvalue="Python.counter_strike" />
         <item itemvalue="Python.computer_store" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.inventory" />
-        <item itemvalue="Python.mu_online_second_type" />
       </list>
     </recent_temporary>
   </component>
@@ -190,13 +188,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Exercise - 07102023">
-      <created>1696626707400</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1696626707400</updated>
     </task>
     <task id="LOCAL-00036" summary="Exercise - 07102023">
       <created>1696663788080</created>
@@ -534,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697814048063</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Exercise - 20102023">
+      <created>1697815696361</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1697815696361</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -804,11 +802,6 @@
           <url>file://$PROJECT_DIR$/06_exam_preparation/mu_оnline.py</url>
           <line>12</line>
           <option name="timeStamp" value="197" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/06_exam_preparation/counter_strike.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="199" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
