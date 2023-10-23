@@ -1,12 +1,26 @@
 class Comment:
-    def __init__(self, username, content, likes=0):
+    def __init__(self, username, content):
         self.username = username
         self.content = content
-        self.likes = likes
 
     def display_info(self):
-        return f"{self.username}\n{self.content}\n{self.likes}"
+        return f"{self.username}\n{self.content}"
 
 
-comment = Comment("user1", "I like this book")
-print(Comment.display_info(comment))
+# Създаваме списък, в който ще съхраняваме коментарите
+comments = []
+
+while True:
+    command = input()
+
+    if command == 'Stop':
+        break
+
+    username, content = command.split(', ')
+    comment = Comment(username, content)
+    comments.append(comment)
+
+
+# Показваме информацията за всички коментари
+for comment in comments:
+    print(comment.display_info())
