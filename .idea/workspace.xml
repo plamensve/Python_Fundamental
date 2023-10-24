@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 23102023">
-      <change afterPath="$PROJECT_DIR$/08_LAB_Objects_and_classes/appending_to_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_LAB_Objects_and_classes/test_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_exam_preparation/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_exam_preparation/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_LAB_Objects_and_classes/cows_and_bulls.py" beforeDir="false" />
-    </list>
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 24102023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,13 +186,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Exercise - 08102023">
-      <created>1696762863183</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1696762863183</updated>
     </task>
     <task id="LOCAL-00046" summary="Exercise - 08102023">
       <created>1696763821456</created>
@@ -536,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698072794674</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Exercise - 24102023">
+      <created>1698167479915</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1698167479915</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -565,7 +559,6 @@
       <path value="$PROJECT_DIR$/Python_Fundamental" />
       <path value="$PROJECT_DIR$/Rock_Paper_Scissors" />
     </ignored-roots>
-    <MESSAGE value="Exercise - 30092023" />
     <MESSAGE value="Exercise - 01102023" />
     <MESSAGE value="Exercise - 01102023 - To heavy, 3 hours work" />
     <MESSAGE value="Exercise - 01102023 - To heavy" />
@@ -590,7 +583,8 @@
     <MESSAGE value="Exercise - 21102023" />
     <MESSAGE value="Exercise - 22102023" />
     <MESSAGE value="Exercise - 23102023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 23102023" />
+    <MESSAGE value="Exercise - 24102023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 24102023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -826,6 +820,11 @@
           <url>file://$PROJECT_DIR$/08_LAB_Objects_and_classes/test_1.py</url>
           <line>8</line>
           <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes/storage.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="231" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
