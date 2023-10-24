@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 24102023" />
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 24102023">
+      <change afterPath="$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes/catalogue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,8 +44,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.storage">
-    <configuration name="appending_to_list (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.catalogue">
+    <configuration name="catalogue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_LAB_Objects_and_classes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_LAB_Objects_and_classes/appending_to_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes/catalogue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.catalogue" />
         <item itemvalue="Python.storage" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.test_1 (1)" />
         <item itemvalue="Python.test_1" />
-        <item itemvalue="Python.appending_to_list (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -186,13 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Exercise - 08102023">
-      <created>1696766983387</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1696766983387</updated>
     </task>
     <task id="LOCAL-00048" summary="Exercise - 08102023">
       <created>1696770999015</created>
@@ -530,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698167553807</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Exercise - 24102023">
+      <created>1698174120076</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1698174120076</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -822,9 +825,9 @@
           <option name="timeStamp" value="230" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes/storage.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="231" />
+          <url>file://$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes/catalogue.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="235" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
