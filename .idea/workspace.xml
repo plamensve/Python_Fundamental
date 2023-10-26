@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 26102023">
-      <change afterPath="$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes/zoo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +44,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="inventory (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.appending_to_list">
+    <configuration name="appending_to_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_LAB_Objects_and_classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes/inventory.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_LAB_Objects_and_classes/appending_to_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="movie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_LAB_Objects_and_classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes/movie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_LAB_Objects_and_classes/party.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vehicle (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zoo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_LAB_Objects_and_classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_EXERCISE_Objects_And_Classes/vehicle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_LAB_Objects_and_classes/zoo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.appending_to_list" />
+        <item itemvalue="Python.party" />
+        <item itemvalue="Python.zoo (1)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.zoo" />
-        <item itemvalue="Python.inventory (1)" />
-        <item itemvalue="Python.movie" />
-        <item itemvalue="Python.vehicle (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -190,13 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Exercise - 11102023">
-      <created>1697028321428</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1697028321428</updated>
     </task>
     <task id="LOCAL-00054" summary="Exercise - 12102023">
       <created>1697095932020</created>
@@ -534,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698320892862</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Exercise - 26102023">
+      <created>1698336087370</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1698336087370</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
