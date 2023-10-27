@@ -33,3 +33,5 @@ while True:
     my_new_list.append(cowAndBulls)
 
     print(cowAndBulls.check_win())
+
+#test
