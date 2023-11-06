@@ -1,35 +1,49 @@
-user_stat = {}
-contest_stat = {}
+contests = {}
+users = {}
+
 while True:
-    line = input()
-    if line == 'no more time':
+    input_line = input()
+    if input_line == "no more time":
         break
 
-    username, contest, points = line.split(' -> ')
+    username, contest, points = input_line.split(" -> ")
     points = int(points)
 
-    if username not in user_stat:  # User stats points
-        user_stat[username] = points
+    if contest not in contests:
+        contests[contest] = []
+
+    found_user = None
+    for entry in contests[contest]:
+        if entry[0] == username:
+            found_user = entry
+            break
+
+    if found_user is None:
+        contests[contest].append((username, points))
     else:
-        user_stat[username] += points
+        if found_user[1] < points:
+            found_user = (username, points)
 
-    if contest not in contest_stat:  # Contests stats
-        contest_stat[contest] = [username, points]
-    else:
-        contest_stat[contest].append(username)
-        contest_stat[contest].append(points)
+    if username not in users:
+        users[username] = 0
+    users[username] += points
 
-for k, v in contest_stat.items():
-    counter = 1
-    print(f"{k}: {len(contest_stat[k]) // 2} participants")
-    for index in range(0, len(v), 2):
-        name = index
-        point = index + 1
-        print(f"{counter}. {v[name]} <::> {v[point]}")
-        counter += 1
+# Sort and print contest results
+for contest, participants in contests.items():
+    print(f"{contest}: {len(participants)} participants")
+    sorted_participants = sorted(participants, key=lambda x: (-x[1], x[0]))
+    for i, (username, points) in enumerate(sorted_participants, start=1):
+        print(f"{i}. {username} <::> {points}")
 
-print(f"Individual standings:")
-counter2 = 1
-for key, value in user_stat.items():
-    print(f"{counter2}. {key} -> {value}")
-    counter2 += 1
+# Sort and print individual standings
+print("Individual standings:")
+sorted_users = sorted(users.items(), key=lambda x: (-x[1], x[0]))
+for i, (username, total_points) in enumerate(sorted_users, start=1):
+    print(f"{i}. {username} -> {total_points}")
+
+
+
+
+
+
+
