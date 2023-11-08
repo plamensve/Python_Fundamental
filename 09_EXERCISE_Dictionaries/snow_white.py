@@ -19,7 +19,7 @@ while True:
 
     key_value += 1  # Увеличете ключовата стойност
 if flag:
-    sorted_dwarfs = sorted(dwarf_dict.values(), key=lambda x: x['hat_color'])
+    sorted_dwarfs = sorted(dwarf_dict.values(), key=lambda x: x['hat_color'], reverse=True)
 else:
     sorted_dwarfs = sorted(dwarf_dict.values(), key=lambda x: x['physics'], reverse=True)
 
