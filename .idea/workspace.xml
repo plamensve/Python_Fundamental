@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 09112023">
-      <change afterPath="$PROJECT_DIR$/10_EXERCISE_Text_Procesing/valid_usernames.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_LAB_Text_Procesing/digits_letters_and_other.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_LAB_Text_Procesing/digits_letters_and_other.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,13 +188,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00084" summary="Exercise - 20102023">
-      <created>1697815696361</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1697815696361</updated>
     </task>
     <task id="LOCAL-00085" summary="Exercise - 21102023">
       <created>1697886799198</created>
@@ -534,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699548538202</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="Exercise - 09112023">
+      <created>1699551031424</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1699551031424</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -879,11 +877,6 @@
           <url>file://$PROJECT_DIR$/10_LAB_Text_Procesing/text_filter.py</url>
           <line>7</line>
           <option name="timeStamp" value="296" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10_EXERCISE_Text_Procesing/valid_usernames.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="298" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
