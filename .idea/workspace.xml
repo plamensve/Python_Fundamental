@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 12112023">
-      <change afterPath="$PROJECT_DIR$/10_EXERCISE_Text_Procesing/caesar_cipher.py" afterDir="false" />
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 13112023">
+      <change afterPath="$PROJECT_DIR$/10_EXERCISE_Text_Procesing/emoticon_finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_EXERCISE_Text_Procesing/replace_repeating_chars.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.caesar_cipher">
+  <component name="RunManager" selected="Python.replace_repeating_chars">
     <configuration name="caesar_cipher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="digits_letters_and_other" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="emoticon_finder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_LAB_Text_Procesing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_EXERCISE_Text_Procesing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_LAB_Text_Procesing/digits_letters_and_other.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_EXERCISE_Text_Procesing/emoticon_finder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="valid_usernames" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="replace_repeating_chars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_EXERCISE_Text_Procesing/valid_usernames.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_EXERCISE_Text_Procesing/replace_repeating_chars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.replace_repeating_chars" />
+        <item itemvalue="Python.emoticon_finder" />
         <item itemvalue="Python.caesar_cipher" />
         <item itemvalue="Python.extract_file" />
         <item itemvalue="Python.character_multiplier" />
-        <item itemvalue="Python.valid_usernames" />
-        <item itemvalue="Python.digits_letters_and_other" />
       </list>
     </recent_temporary>
   </component>
@@ -189,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00089" summary="Exercise - 22102023">
-      <created>1697992991641</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1697992991642</updated>
     </task>
     <task id="LOCAL-00090" summary="Exercise - 23102023">
       <created>1698044638871</created>
@@ -533,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699812762213</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="Exercise - 13112023">
+      <created>1699864968037</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1699864968037</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -562,7 +563,6 @@
       <path value="$PROJECT_DIR$/Python_Fundamental" />
       <path value="$PROJECT_DIR$/Rock_Paper_Scissors" />
     </ignored-roots>
-    <MESSAGE value="Exercise - 18102023" />
     <MESSAGE value="Exercise - 19102023" />
     <MESSAGE value="Exercise - 20102023" />
     <MESSAGE value="Exercise - 21102023" />
@@ -587,7 +587,8 @@
     <MESSAGE value="Exercise - 10112023" />
     <MESSAGE value="Exercise - 11112023" />
     <MESSAGE value="Exercise - 12112023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 12112023" />
+    <MESSAGE value="Exercise - 13112023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 13112023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -883,6 +884,11 @@
           <url>file://$PROJECT_DIR$/10_EXERCISE_Text_Procesing/character_multiplier.py</url>
           <line>3</line>
           <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10_EXERCISE_Text_Procesing/replace_repeating_chars.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="303" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
