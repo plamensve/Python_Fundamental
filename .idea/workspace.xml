@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 13112023" />
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 14112023">
+      <change afterPath="$PROJECT_DIR$/10_EXERCISE_Text_Procesing/treasure_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,13 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00093" summary="Exercise - 23102023">
-      <created>1698072794674</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1698072794674</updated>
     </task>
     <task id="LOCAL-00094" summary="Exercise - 24102023">
       <created>1698167479915</created>
@@ -530,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699896033989</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="Exercise - 14112023">
+      <created>1699990069199</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1699990069199</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -559,7 +562,6 @@
       <path value="$PROJECT_DIR$/Python_Fundamental" />
       <path value="$PROJECT_DIR$/Rock_Paper_Scissors" />
     </ignored-roots>
-    <MESSAGE value="Exercise - 19102023" />
     <MESSAGE value="Exercise - 20102023" />
     <MESSAGE value="Exercise - 21102023" />
     <MESSAGE value="Exercise - 22102023" />
@@ -584,7 +586,8 @@
     <MESSAGE value="Exercise - 11112023" />
     <MESSAGE value="Exercise - 12112023" />
     <MESSAGE value="Exercise - 13112023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 13112023" />
+    <MESSAGE value="Exercise - 14112023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 14112023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

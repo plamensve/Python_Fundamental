@@ -16,3 +16,4 @@ for number in ascii_list:
         ascii_sum += ord(number)
 
 print(ascii_sum)
+#test
