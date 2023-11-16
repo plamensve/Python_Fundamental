@@ -6,3 +6,4 @@ while word in banned_word:
 
 print(banned_word)
 
+#test

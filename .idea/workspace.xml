@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 14112023">
-      <change afterPath="$PROJECT_DIR$/10_EXERCISE_Text_Procesing/treasure_finder.py" afterDir="false" />
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 15112023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_LAB_Text_Procesing/substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_LAB_Text_Procesing/substring.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +44,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.letters_change_numbers">
-    <configuration name="emoticon_finder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.comment_exr">
+    <configuration name="comment_exr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_EXERCISE_Text_Procesing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_LAB_Objects_and_classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_EXERCISE_Text_Procesing/emoticon_finder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_LAB_Objects_and_classes/comment_exr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.comment_exr" />
         <item itemvalue="Python.letters_change_numbers" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.string_explosion" />
         <item itemvalue="Python.replace_repeating_chars" />
-        <item itemvalue="Python.emoticon_finder" />
       </list>
     </recent_temporary>
   </component>
@@ -189,13 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00094" summary="Exercise - 24102023">
-      <created>1698167479915</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1698167479915</updated>
     </task>
     <task id="LOCAL-00095" summary="Exercise - 24102023">
       <created>1698167553807</created>
@@ -533,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699990069199</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="Exercise - 15112023">
+      <created>1700077621218</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1700077621218</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -562,7 +562,6 @@
       <path value="$PROJECT_DIR$/Python_Fundamental" />
       <path value="$PROJECT_DIR$/Rock_Paper_Scissors" />
     </ignored-roots>
-    <MESSAGE value="Exercise - 20102023" />
     <MESSAGE value="Exercise - 21102023" />
     <MESSAGE value="Exercise - 22102023" />
     <MESSAGE value="Exercise - 23102023" />
@@ -587,7 +586,8 @@
     <MESSAGE value="Exercise - 12112023" />
     <MESSAGE value="Exercise - 13112023" />
     <MESSAGE value="Exercise - 14112023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 14112023" />
+    <MESSAGE value="Exercise - 15112023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 15112023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
