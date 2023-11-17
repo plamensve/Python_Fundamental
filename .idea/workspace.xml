@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 15112023">
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 16112023">
+      <change afterPath="$PROJECT_DIR$/11_LAB_Regular_Expressions/match_dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_LAB_Regular_Expressions/match_full_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_LAB_Regular_Expressions/match_phone_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_LAB_Text_Procesing/substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_LAB_Text_Procesing/substring.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.comment_exr">
+  <component name="RunManager" selected="Python.match_dates">
     <configuration name="comment_exr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="replace_repeating_chars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="match_dates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_EXERCISE_Text_Procesing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_LAB_Regular_Expressions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_EXERCISE_Text_Procesing/replace_repeating_chars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_LAB_Regular_Expressions/match_dates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_explosion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="match_full_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_EXERCISE_Text_Procesing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_LAB_Regular_Expressions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_EXERCISE_Text_Procesing/string_explosion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_LAB_Regular_Expressions/match_full_name.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="match_phone_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_EXERCISE_Text_Procesing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_LAB_Regular_Expressions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_EXERCISE_Text_Procesing/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_LAB_Regular_Expressions/match_phone_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.match_dates" />
+        <item itemvalue="Python.match_phone_number" />
+        <item itemvalue="Python.match_full_name" />
         <item itemvalue="Python.comment_exr" />
         <item itemvalue="Python.letters_change_numbers" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.string_explosion" />
-        <item itemvalue="Python.replace_repeating_chars" />
       </list>
     </recent_temporary>
   </component>
@@ -189,13 +191,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00095" summary="Exercise - 24102023">
-      <created>1698167553807</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1698167553807</updated>
     </task>
     <task id="LOCAL-00096" summary="Exercise - 24102023">
       <created>1698174120076</created>
@@ -533,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700077621218</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="Exercise - 16112023">
+      <created>1700158029333</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1700158029333</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -562,7 +564,6 @@
       <path value="$PROJECT_DIR$/Python_Fundamental" />
       <path value="$PROJECT_DIR$/Rock_Paper_Scissors" />
     </ignored-roots>
-    <MESSAGE value="Exercise - 21102023" />
     <MESSAGE value="Exercise - 22102023" />
     <MESSAGE value="Exercise - 23102023" />
     <MESSAGE value="Exercise - 24102023" />
@@ -587,7 +588,8 @@
     <MESSAGE value="Exercise - 13112023" />
     <MESSAGE value="Exercise - 14112023" />
     <MESSAGE value="Exercise - 15112023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 15112023" />
+    <MESSAGE value="Exercise - 16112023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 16112023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -898,6 +900,11 @@
           <url>file://$PROJECT_DIR$/10_EXERCISE_Text_Procesing/letters_change_numbers.py</url>
           <line>1</line>
           <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11_LAB_Regular_Expressions/match_phone_number.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="313" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
