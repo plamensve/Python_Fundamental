@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 17112023">
-      <change afterPath="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/find_occurrences_of_word_in_sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/find_variable_names_in_sentences.py" afterDir="false" />
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 18112023">
+      <change afterPath="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/extract_the_links.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/furniture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/extract_emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/extract_emails.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +45,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.find_occurrences_of_word_in_sentence">
-    <configuration name="capture_the_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.extract_the_links">
+    <configuration name="extract_emails" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +58,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/capture_the_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/extract_emails.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract_the_links" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/extract_the_links.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,34 +172,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="match_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Fundamental" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_LAB_Regular_Expressions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_LAB_Regular_Expressions/match_numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.extract_the_links" />
+        <item itemvalue="Python.extract_emails" />
         <item itemvalue="Python.find_occurrences_of_word_in_sentence" />
         <item itemvalue="Python.find_variable_names_in_sentences" />
         <item itemvalue="Python.furniture" />
-        <item itemvalue="Python.capture_the_numbers" />
-        <item itemvalue="Python.match_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -191,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00099" summary="Exercise - 26102023">
-      <created>1698302616543</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1698302616544</updated>
     </task>
     <task id="LOCAL-00100" summary="Exercise - 26102023">
       <created>1698304737016</created>
@@ -535,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700250853034</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="Exercise - 18112023">
+      <created>1700293250390</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1700293250390</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -564,7 +563,6 @@
       <path value="$PROJECT_DIR$/Python_Fundamental" />
       <path value="$PROJECT_DIR$/Rock_Paper_Scissors" />
     </ignored-roots>
-    <MESSAGE value="Exercise - 23102023" />
     <MESSAGE value="Exercise - 24102023" />
     <MESSAGE value="Exercise - 25102023" />
     <MESSAGE value="Exercise - 26102023" />
@@ -589,7 +587,8 @@
     <MESSAGE value="Exercise - 15112023" />
     <MESSAGE value="Exercise - 16112023" />
     <MESSAGE value="Exercise - 17112023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 17112023" />
+    <MESSAGE value="Exercise - 18112023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 18112023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
