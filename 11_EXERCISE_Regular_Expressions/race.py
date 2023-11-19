@@ -1,7 +1,6 @@
 import re
 
 names = input().split(', ')
-
 racers = {}
 
 command = input()
@@ -25,7 +24,6 @@ while command != 'end of race':
 
     name = ''
     distance = 0
-
     command = input()
 
 sorted_data = sorted(racers.items(), key=lambda x: x[1], reverse=True)
