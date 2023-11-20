@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 18112023">
-      <change afterPath="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/softUni_bar_income.py" afterDir="false" />
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 19112023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/race.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/race.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/softUni_bar_income.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/softUni_bar_income.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,13 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00102" summary="Exercise - 26102023">
-      <created>1698336087370</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1698336087370</updated>
     </task>
     <task id="LOCAL-00103" summary="Exercise - 27102023">
       <created>1698355497743</created>
@@ -534,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700302677054</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="Exercise - 19112023">
+      <created>1700401869152</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1700401869152</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -563,7 +562,6 @@
       <path value="$PROJECT_DIR$/Python_Fundamental" />
       <path value="$PROJECT_DIR$/Rock_Paper_Scissors" />
     </ignored-roots>
-    <MESSAGE value="Exercise - 24102023" />
     <MESSAGE value="Exercise - 25102023" />
     <MESSAGE value="Exercise - 26102023" />
     <MESSAGE value="Exercise - 27102023" />
@@ -588,7 +586,8 @@
     <MESSAGE value="Exercise - 16112023" />
     <MESSAGE value="Exercise - 17112023" />
     <MESSAGE value="Exercise - 18112023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 18112023" />
+    <MESSAGE value="Exercise - 19112023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 19112023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -904,11 +903,6 @@
           <url>file://$PROJECT_DIR$/11_LAB_Regular_Expressions/match_phone_number.py</url>
           <line>3</line>
           <option name="timeStamp" value="313" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11_EXERCISE_Regular_Expressions/softUni_bar_income.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="331" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

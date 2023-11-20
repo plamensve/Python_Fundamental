@@ -12,3 +12,4 @@ for word in file:
     if extension in word:
         file_name, extension = word.split('.')
         print(f"File name: {file_name}\nFile extension: {extension}")
+# test
