@@ -32,4 +32,4 @@ while command != 'Decode':
     command = input()
 
 print(f"The decrypted message is:", ''.join(list_word))
-# Провери индекса (има before в условието и може би заради това получавам 83 точки)
+# Провери индекса (има before в условието и може би заради това получавам 83 точки) test test

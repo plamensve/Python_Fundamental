@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 21112023" />
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 22112023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,13 +186,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00106" summary="Exercise - 28102023">
-      <created>1698506138827</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1698506138828</updated>
     </task>
     <task id="LOCAL-00107" summary="Exercise - 28102023">
       <created>1698512742401</created>
@@ -530,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700593527310</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="Exercise - 22112023">
+      <created>1700682880122</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1700682880123</updated>
+    </task>
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -559,7 +559,6 @@
       <path value="$PROJECT_DIR$/Python_Fundamental" />
       <path value="$PROJECT_DIR$/Rock_Paper_Scissors" />
     </ignored-roots>
-    <MESSAGE value="Exercise - 27102023" />
     <MESSAGE value="Exercise - 28102023" />
     <MESSAGE value="Exercise - 30102023" />
     <MESSAGE value="Exercise - 31102023" />
@@ -584,7 +583,8 @@
     <MESSAGE value="Exercise - 19112023" />
     <MESSAGE value="Exercise - 20112023" />
     <MESSAGE value="Exercise - 21112023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 21112023" />
+    <MESSAGE value="Exercise - 22112023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 22112023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
