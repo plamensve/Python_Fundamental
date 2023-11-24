@@ -2,7 +2,7 @@ string_line = input()
 final_string_in_list = []
 
 
-def take_odd():
+def take_odd(string):
     odd_string = ''
     for index in range(len(string_line)):
         if index % 2 != 0:
@@ -39,7 +39,7 @@ while True:
     current_command = command.split()
 
     if current_command[0] == 'TakeOdd':
-        take_odd()
+        take_odd(string_line)
 
     elif current_command[0] == 'Cut':
         length_of_string, number_of_chars_for_remove = current_command[1], current_command[2]
