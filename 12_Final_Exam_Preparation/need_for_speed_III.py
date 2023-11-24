@@ -32,7 +32,7 @@ def refuel(car_name, add_fuel):
         current_car['mileage'] = int(current_car['mileage'])
         current_car['fuel'] = int(current_car['fuel'])
         if current_car['name'] == car_name:
-            current_quantity = int(current_car['fuel'])
+            current_quantity = current_car['fuel']
             if current_quantity + add_fuel > 75:
                 current_car['fuel'] = 75
                 added_quantity = 75 - current_quantity
