@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 25112023">
-      <change afterPath="$PROJECT_DIR$/12_Final_Exam_Preparation/ad_astra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Final_Exam_Preparation/p!rates.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Python.ad_astra">
+  <component name="RunManager" selected="Python.p!rates">
     <configuration name="ad_astra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="need_for_speed_III" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="p!rates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Final_Exam_Preparation/need_for_speed_III.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Final_Exam_Preparation/p!rates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p!rates" />
         <item itemvalue="Python.ad_astra" />
         <item itemvalue="Python.world_tour" />
         <item itemvalue="Python.password_reset_without_functions" />
         <item itemvalue="Python.password_reset" />
-        <item itemvalue="Python.need_for_speed_III" />
       </list>
     </recent_temporary>
   </component>
@@ -189,13 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00113" summary="Exercise - 31102023">
-      <created>1698759411179</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1698759411179</updated>
     </task>
     <task id="LOCAL-00114" summary="Exercise - 01112023">
       <created>1698853443369</created>
@@ -533,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700904614558</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="Exercise - 25112023">
+      <created>1700907254741</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1700907254741</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -913,11 +913,6 @@
           <url>file://$PROJECT_DIR$/12_Final_Exam_Preparation/password_reset_without_functions.py</url>
           <line>26</line>
           <option name="timeStamp" value="341" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/12_Final_Exam_Preparation/ad_astra.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="369" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
