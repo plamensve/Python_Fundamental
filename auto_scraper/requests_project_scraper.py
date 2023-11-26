@@ -6,7 +6,8 @@ from openpyxl.workbook import Workbook
 
 company_name = input('Въведете името на фирмата:').lower()
 urls = {'svetoslavov': 'https://svetoslavov.bg/%d1%86%d0%b5%d0%bd%d0%b8-%d0%bd%d0%b0-%d0%b4%d0%b8%d0%b7%d0%b5%d0%bb-%d0%bd%d0%b0-%d0%b5%d0%b4%d1%80%d0%be/',
-        'gtapetroleum': 'https://gtapetroleum.com/%d1%86%d0%b5%d0%bd%d0%b8-%d0%bd%d0%b0-%d0%b5%d0%b4%d1%80%d0%be/'}
+        'gtapetroleum': 'https://gtapetroleum.com/%d1%86%d0%b5%d0%bd%d0%b8-%d0%bd%d0%b0-%d0%b5%d0%b4%d1%80%d0%be/',
+        'bulmarket': 'https://bulmarket.bg/bg/%D1%81%D1%82%D1%80/%D1%86%D0%B5%D0%BD%D0%B8-16'}
 
 
 for k, v in urls.items():
@@ -19,6 +20,9 @@ for k, v in urls.items():
 
         elif company_name == 'gtapetroleum':
             rows = soup.find('tbody', {'class': 'jet-table__body'}).find_all('tr')
+
+        elif company_name == 'bulmarket':
+            rows = soup.find('div', {'id': 'xlsx_render'}).find('tbody').find('tr', {'class': 'heading'}).find_all('td')
 
         fuels_list = []
 
