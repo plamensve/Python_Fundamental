@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 26112023">
-      <change afterPath="$PROJECT_DIR$/12_Final_Exam_Preparation/planet_discovery_second.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Final_Exam_Preparation/plant_discovery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Final_Exam_Preparation/plant_discovery_first.py" afterDir="false" />
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 27112023">
+      <change afterPath="$PROJECT_DIR$/12_Final_Exam_Preparation/secret_chat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +50,7 @@
       <recent name="D:\Python Projects\Python_Fundamental\auto_scraper" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.plant_discovery">
+  <component name="RunManager" selected="Python.secret_chat">
     <configuration name="destination_mapper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="the_pianist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="secret_chat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +189,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Final_Exam_Preparation/the_pianist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Final_Exam_Preparation/secret_chat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.secret_chat" />
         <item itemvalue="Python.plant_discovery" />
         <item itemvalue="Python.planet_discovery_second" />
         <item itemvalue="Python.plant_discovery_first" />
         <item itemvalue="Python.destination_mapper" />
-        <item itemvalue="Python.the_pianist" />
       </list>
     </recent_temporary>
   </component>
@@ -218,13 +216,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00120" summary="Exercise - 04112023">
-      <created>1699110727111</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1699110727111</updated>
     </task>
     <task id="LOCAL-00121" summary="Exercise - 04112023">
       <created>1699112504861</created>
@@ -562,7 +553,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701016741146</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="Exercise - 27112023">
+      <created>1701087129170</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1701087129171</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -592,7 +590,6 @@
       <path value="$PROJECT_DIR$/Python_Fundamental" />
       <path value="$PROJECT_DIR$/Rock_Paper_Scissors" />
     </ignored-roots>
-    <MESSAGE value="Exercise - 02112023" />
     <MESSAGE value="Exercise - 03112023" />
     <MESSAGE value="Exercise - 04112023" />
     <MESSAGE value="Exercise - 05112023" />
@@ -617,7 +614,8 @@
     <MESSAGE value="Exercise - 24112023" />
     <MESSAGE value="Exercise - 25112023" />
     <MESSAGE value="Exercise - 26112023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 26112023" />
+    <MESSAGE value="Exercise - 27112023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 27112023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
