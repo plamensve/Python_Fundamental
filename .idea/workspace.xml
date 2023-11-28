@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 27112023">
-      <change afterPath="$PROJECT_DIR$/12_Final_Exam_Preparation/heroes_of_code_and_logic_VII.py" afterDir="false" />
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 28112023">
+      <change afterPath="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/the_imitation_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_Final_Exam_Preparation/mirror_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_Final_Exam_Preparation/mirror_words.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <recent name="D:\Python Projects\Python_Fundamental\auto_scraper" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.heroes_of_code_and_logic_VII">
+  <component name="RunManager" selected="Python.the_imitation_game">
     <configuration name="heroes_of_code_and_logic_VII" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,27 +114,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plant_discovery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Fundamental" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Final_Exam_Preparation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Final_Exam_Preparation/plant_discovery.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="requests_project_scraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,13 +156,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="the_imitation_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/the_imitation_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.the_imitation_game" />
         <item itemvalue="Python.heroes_of_code_and_logic_VII" />
         <item itemvalue="Python.mirror_words" />
         <item itemvalue="Python.requests_project_scraper" />
         <item itemvalue="Python.secret_chat" />
-        <item itemvalue="Python.plant_discovery" />
       </list>
     </recent_temporary>
   </component>
@@ -196,13 +195,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00123" summary="Exercise - 05112023">
-      <created>1699174749987</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1699174749987</updated>
     </task>
     <task id="LOCAL-00124" summary="Exercise - 05112023">
       <created>1699190355389</created>
@@ -540,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701112604945</updated>
     </task>
-    <option name="localTasksCounter" value="172" />
+    <task id="LOCAL-00172" summary="Exercise - 28112023">
+      <created>1701179406981</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1701179406982</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -570,7 +569,6 @@
       <path value="$PROJECT_DIR$/Python_Fundamental" />
       <path value="$PROJECT_DIR$/Rock_Paper_Scissors" />
     </ignored-roots>
-    <MESSAGE value="Exercise - 03112023" />
     <MESSAGE value="Exercise - 04112023" />
     <MESSAGE value="Exercise - 05112023" />
     <MESSAGE value="Exercise - 06112023" />
@@ -595,7 +593,8 @@
     <MESSAGE value="Exercise - 25112023" />
     <MESSAGE value="Exercise - 26112023" />
     <MESSAGE value="Exercise - 27112023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 27112023" />
+    <MESSAGE value="Exercise - 28112023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 28112023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -938,9 +937,9 @@
           <option name="timeStamp" value="375" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/12_Final_Exam_Preparation/heroes_of_code_and_logic_VII.py</url>
+          <url>file://$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/the_imitation_game.py</url>
           <line>4</line>
-          <option name="timeStamp" value="376" />
+          <option name="timeStamp" value="380" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
