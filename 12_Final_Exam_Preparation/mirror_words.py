@@ -14,7 +14,7 @@ if len(list_matches) != 0:
 else:
     print(f"No word pairs found!")
 
-for i in range (1,len(list_matches),2):
+for i in range(1, len(list_matches), 2):
     if (list_matches[i][::-1]) == (list_matches[i-1]) and (list_matches[i-1][::-1]) == (list_matches[i]):
         new_list_matches.append(list_matches[i-1]+" <=> " + list_matches[i])
 
