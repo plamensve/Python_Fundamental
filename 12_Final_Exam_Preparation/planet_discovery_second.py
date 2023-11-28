@@ -37,3 +37,5 @@ for item_name, plant_information in plants_collection.items():
     else:
         average_rating = sum(plant_information['ratings']) / (len(plant_information['ratings']) - 1)
     print(f"- {item_name}; Rarity: {plant_information['rarity']}; Rating: {average_rating:.2f}")
+
+#test

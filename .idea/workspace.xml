@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 28112023">
-      <change afterPath="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/the_imitation_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Final_Exam_Preparation/planet_discovery_second.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_Final_Exam_Preparation/planet_discovery_second.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <recent name="D:\Python Projects\Python_Fundamental\auto_scraper" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.the_imitation_game">
+  <component name="RunManager" selected="Python.requests_project_scraper">
     <configuration name="heroes_of_code_and_logic_VII" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,10 +179,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.the_imitation_game" />
-        <item itemvalue="Python.heroes_of_code_and_logic_VII" />
-        <item itemvalue="Python.mirror_words" />
         <item itemvalue="Python.requests_project_scraper" />
+        <item itemvalue="Python.heroes_of_code_and_logic_VII" />
+        <item itemvalue="Python.the_imitation_game" />
+        <item itemvalue="Python.mirror_words" />
         <item itemvalue="Python.secret_chat" />
       </list>
     </recent_temporary>
@@ -195,13 +195,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00124" summary="Exercise - 05112023">
-      <created>1699190355389</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1699190355389</updated>
     </task>
     <task id="LOCAL-00125" summary="Exercise - 05112023">
       <created>1699216738518</created>
@@ -539,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701179406982</updated>
     </task>
-    <option name="localTasksCounter" value="173" />
+    <task id="LOCAL-00173" summary="Exercise - 28112023">
+      <created>1701194679704</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1701194679705</updated>
+    </task>
+    <option name="localTasksCounter" value="174" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -938,8 +938,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/the_imitation_game.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12_Final_Exam_Preparation/heroes_of_code_and_logic_VII.py</url>
           <line>4</line>
-          <option name="timeStamp" value="380" />
+          <option name="timeStamp" value="382" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
