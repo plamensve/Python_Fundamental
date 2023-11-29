@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 28112023">
-      <change afterPath="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/ad_astra.py" afterDir="false" />
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 29112023">
+      <change afterPath="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/the_pianist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
       <recent name="D:\Python Projects\Python_Fundamental\auto_scraper" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ad_astra">
+  <component name="RunManager" selected="Python.the_pianist">
     <configuration name="ad_astra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,27 +114,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mirror_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Fundamental" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Final_Exam_Preparation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Final_Exam_Preparation/mirror_words.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="requests_project_scraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,13 +156,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="the_pianist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/the_pianist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.the_pianist" />
         <item itemvalue="Python.ad_astra" />
         <item itemvalue="Python.requests_project_scraper" />
         <item itemvalue="Python.heroes_of_code_and_logic_VII" />
         <item itemvalue="Python.the_imitation_game" />
-        <item itemvalue="Python.mirror_words" />
       </list>
     </recent_temporary>
   </component>
@@ -195,20 +195,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00126" summary="Exercise - 06112023">
-      <created>1699292762435</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1699292762436</updated>
-    </task>
-    <task id="LOCAL-00127" summary="Exercise - 06112023">
-      <created>1699296690747</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1699296690747</updated>
     </task>
     <task id="LOCAL-00128" summary="Exercise - 07112023">
       <created>1699387705357</created>
@@ -539,7 +525,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701204239246</updated>
     </task>
-    <option name="localTasksCounter" value="175" />
+    <task id="LOCAL-00175" summary="Exercise - 28112023">
+      <created>1701248396028</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1701248396029</updated>
+    </task>
+    <task id="LOCAL-00176" summary="Exercise - 29112023">
+      <created>1701248424581</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1701248424581</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -569,7 +569,6 @@
       <path value="$PROJECT_DIR$/Python_Fundamental" />
       <path value="$PROJECT_DIR$/Rock_Paper_Scissors" />
     </ignored-roots>
-    <MESSAGE value="Exercise - 04112023" />
     <MESSAGE value="Exercise - 05112023" />
     <MESSAGE value="Exercise - 06112023" />
     <MESSAGE value="Exercise - 07112023" />
@@ -594,7 +593,8 @@
     <MESSAGE value="Exercise - 26112023" />
     <MESSAGE value="Exercise - 27112023" />
     <MESSAGE value="Exercise - 28112023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 28112023" />
+    <MESSAGE value="Exercise - 29112023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 29112023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -945,11 +945,6 @@
           <url>file://$PROJECT_DIR$/12_Final_Exam_Preparation/heroes_of_code_and_logic_VII.py</url>
           <line>4</line>
           <option name="timeStamp" value="382" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/ad_astra.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="386" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
