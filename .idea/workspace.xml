@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 28112023">
+      <change afterPath="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/ad_astra.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_Final_Exam_Preparation/planet_discovery_second.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_Final_Exam_Preparation/planet_discovery_second.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,28 @@
       <recent name="D:\Python Projects\Python_Fundamental\auto_scraper" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.requests_project_scraper">
+  <component name="RunManager" selected="Python.ad_astra">
+    <configuration name="ad_astra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/ad_astra.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="heroes_of_code_and_logic_VII" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,27 +156,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="secret_chat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Fundamental" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Final_Exam_Preparation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Final_Exam_Preparation/secret_chat.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="the_imitation_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ad_astra" />
         <item itemvalue="Python.requests_project_scraper" />
         <item itemvalue="Python.heroes_of_code_and_logic_VII" />
         <item itemvalue="Python.the_imitation_game" />
         <item itemvalue="Python.mirror_words" />
-        <item itemvalue="Python.secret_chat" />
       </list>
     </recent_temporary>
   </component>
@@ -195,13 +195,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00125" summary="Exercise - 05112023">
-      <created>1699216738518</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1699216738519</updated>
     </task>
     <task id="LOCAL-00126" summary="Exercise - 06112023">
       <created>1699292762435</created>
@@ -539,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701194679705</updated>
     </task>
-    <option name="localTasksCounter" value="174" />
+    <task id="LOCAL-00174" summary="Exercise - 28112023">
+      <created>1701204239245</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1701204239246</updated>
+    </task>
+    <option name="localTasksCounter" value="175" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -945,6 +945,11 @@
           <url>file://$PROJECT_DIR$/12_Final_Exam_Preparation/heroes_of_code_and_logic_VII.py</url>
           <line>4</line>
           <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/ad_astra.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="386" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
