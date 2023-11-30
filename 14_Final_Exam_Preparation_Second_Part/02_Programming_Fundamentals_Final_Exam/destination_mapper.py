@@ -3,7 +3,7 @@ import re
 places = input()
 
 pattern = r'([=|\/])([A-Z][A-Za-z]{2,})\1'
-# (=|/)([A-Z][A-Za-z]{2,})\1
+
 matches = re.findall(pattern, places)
 
 lengths_sum = 0
