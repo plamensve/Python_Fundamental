@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 29112023">
-      <change afterPath="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/02_Programming_Fundamentals_Final_Exam/destination_mapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/02_Programming_Fundamentals_Final_Exam/test_.py" afterDir="false" />
+    <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 30112023">
+      <change afterPath="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/02_Programming_Fundamentals_Final_Exam/plant_discovery.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,28 +50,7 @@
       <recent name="D:\Python Projects\Python_Fundamental\auto_scraper" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.destination_mapper">
-    <configuration name="ad_astra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Fundamental" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/ad_astra.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.plant_discovery">
     <configuration name="destination_mapper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,6 +93,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="plant_discovery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/02_Programming_Fundamentals_Final_Exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/02_Programming_Fundamentals_Final_Exam/plant_discovery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="requests_project_scraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/auto_scraper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/auto_scraper/requests_project_scraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,27 +148,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/02_Programming_Fundamentals_Final_Exam/test_.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="the_pianist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Fundamental" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/01_Programming_Fundamentals_Final_Exam_Retake/the_pianist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.plant_discovery" />
+        <item itemvalue="Python.requests_project_scraper" />
         <item itemvalue="Python.destination_mapper" />
         <item itemvalue="Python.test_" />
         <item itemvalue="Python.world_tour" />
-        <item itemvalue="Python.the_pianist" />
-        <item itemvalue="Python.ad_astra" />
       </list>
     </recent_temporary>
   </component>
@@ -196,20 +195,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00130" summary="Exercise - 08112023">
-      <created>1699448439226</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1699448439226</updated>
-    </task>
-    <task id="LOCAL-00131" summary="Exercise - 08112023">
-      <created>1699471546553</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1699471546553</updated>
     </task>
     <task id="LOCAL-00132" summary="Exercise - 09112023">
       <created>1699548538201</created>
@@ -540,7 +525,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701274386869</updated>
     </task>
-    <option name="localTasksCounter" value="179" />
+    <task id="LOCAL-00179" summary="Exercise - 29112023">
+      <created>1701360591730</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1701360591730</updated>
+    </task>
+    <task id="LOCAL-00180" summary="Exercise - 30112023">
+      <created>1701360615656</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1701360615656</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -570,7 +569,6 @@
       <path value="$PROJECT_DIR$/Python_Fundamental" />
       <path value="$PROJECT_DIR$/Rock_Paper_Scissors" />
     </ignored-roots>
-    <MESSAGE value="Exercise - 05112023" />
     <MESSAGE value="Exercise - 06112023" />
     <MESSAGE value="Exercise - 07112023" />
     <MESSAGE value="Exercise - 08112023" />
@@ -595,7 +593,8 @@
     <MESSAGE value="Exercise - 27112023" />
     <MESSAGE value="Exercise - 28112023" />
     <MESSAGE value="Exercise - 29112023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 29112023" />
+    <MESSAGE value="Exercise - 30112023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - 30112023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -951,6 +950,11 @@
           <url>file://$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/02_Programming_Fundamentals_Final_Exam/destination_mapper.py</url>
           <line>4</line>
           <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/02_Programming_Fundamentals_Final_Exam/plant_discovery.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="387" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
