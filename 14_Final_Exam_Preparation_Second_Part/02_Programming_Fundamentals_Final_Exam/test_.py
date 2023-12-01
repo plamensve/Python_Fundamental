@@ -1,3 +1,7 @@
-cm = int(input())
-inch = cm * 2.54
-print(inch)
+some_string = 'We Fly So High'
+
+delimeter = 'Fly'
+
+result = str.split(delimeter)
+
+print(result)
