@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c80712df-c6ff-4b5e-a8b9-c8367f426355" name="Changes" comment="Exercise - 01122023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/02_Programming_Fundamentals_Final_Exam/test_.py" beforeDir="false" afterPath="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/02_Programming_Fundamentals_Final_Exam/test_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/03_Programming_Fundamentals_Final_Exam_Retake/need_for_speed_III.py" beforeDir="false" afterPath="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/03_Programming_Fundamentals_Final_Exam_Retake/need_for_speed_III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/number_beggars.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_EXERCISE_Lists_Basics/number_beggars.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <recent name="D:\Python Projects\Python_Fundamental\auto_scraper" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.need_for_speed_III">
+  <component name="RunManager" selected="Python.test">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,27 +114,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="secret_chat (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Fundamental" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Final_Exam_Preparation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Final_Exam_Preparation/secret_chat.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="secret_chat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamental" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,6 +127,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/03_Programming_Fundamentals_Final_Exam_Retake/secret_chat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matplotlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matplotlib/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.need_for_speed_III" />
         <item itemvalue="Python.test_" />
         <item itemvalue="Python.mirror_words" />
         <item itemvalue="Python.secret_chat" />
-        <item itemvalue="Python.secret_chat (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -196,13 +195,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690623877103</updated>
-    </task>
-    <task id="LOCAL-00134" summary="Exercise - 10112023">
-      <created>1699635921700</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1699635921700</updated>
     </task>
     <task id="LOCAL-00135" summary="Exercise - 11112023">
       <created>1699713762708</created>
@@ -540,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701425984198</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <task id="LOCAL-00183" summary="Exercise - 01122023">
+      <created>1701439491109</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1701439491109</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -979,8 +978,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/14_Final_Exam_Preparation_Second_Part/03_Programming_Fundamentals_Final_Exam_Retake/need_for_speed_III.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="395" />
+          <line>4</line>
+          <option name="timeStamp" value="392" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
